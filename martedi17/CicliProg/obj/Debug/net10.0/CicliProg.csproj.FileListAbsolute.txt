@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\CorsoC\CicliProg\bin\Debug\net10.0\CicliProg.exe
+C:\Users\USER\desktop\CorsoC\CicliProg\bin\Debug\net10.0\CicliProg.deps.json
+C:\Users\USER\desktop\CorsoC\CicliProg\bin\Debug\net10.0\CicliProg.runtimeconfig.json
+C:\Users\USER\desktop\CorsoC\CicliProg\bin\Debug\net10.0\CicliProg.dll
+C:\Users\USER\desktop\CorsoC\CicliProg\bin\Debug\net10.0\CicliProg.pdb
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.AssemblyInfo.cs
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.dll
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\refint\CicliProg.dll
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.pdb
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\CicliProg.genruntimeconfig.cache
+C:\Users\USER\desktop\CorsoC\CicliProg\obj\Debug\net10.0\ref\CicliProg.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\bin\Debug\net10.0\ProvaCondizione.exe
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\bin\Debug\net10.0\ProvaCondizione.deps.json
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\bin\Debug\net10.0\ProvaCondizione.runtimeconfig.json
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\bin\Debug\net10.0\ProvaCondizione.dll
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\bin\Debug\net10.0\ProvaCondizione.pdb
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.AssemblyInfo.cs
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.dll
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\refint\ProvaCondizione.dll
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.pdb
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ProvaCondizione.genruntimeconfig.cache
+C:\Users\USER\desktop\CorsoC\Martedi17\ProvaCondizione\obj\Debug\net10.0\ref\ProvaCondizione.dll

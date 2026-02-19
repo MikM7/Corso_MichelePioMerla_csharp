@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\bin\Debug\net10.0\Bancom.exe
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\bin\Debug\net10.0\Bancom.deps.json
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\bin\Debug\net10.0\Bancom.runtimeconfig.json
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\bin\Debug\net10.0\Bancom.dll
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\bin\Debug\net10.0\Bancom.pdb
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.AssemblyInfo.cs
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.dll
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\refint\Bancom.dll
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.pdb
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\Bancom.genruntimeconfig.cache
+C:\Users\USER\desktop\corsoc\Mercoledi18\Bancom\obj\Debug\net10.0\ref\Bancom.dll

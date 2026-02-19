@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\bin\Debug\net10.0\ProgArr.exe
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\bin\Debug\net10.0\ProgArr.deps.json
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\bin\Debug\net10.0\ProgArr.runtimeconfig.json
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\bin\Debug\net10.0\ProgArr.dll
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\bin\Debug\net10.0\ProgArr.pdb
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.AssemblyInfo.cs
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.dll
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\refint\ProgArr.dll
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.pdb
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ProgArr.genruntimeconfig.cache
+C:\Users\USER\desktop\corsoc\mercoledi18\ProgArr\obj\Debug\net10.0\ref\ProgArr.dll

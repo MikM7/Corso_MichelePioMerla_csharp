@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\bin\Debug\net10.0\EsePrimo.exe
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\bin\Debug\net10.0\EsePrimo.deps.json
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\bin\Debug\net10.0\EsePrimo.runtimeconfig.json
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\bin\Debug\net10.0\EsePrimo.dll
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\bin\Debug\net10.0\EsePrimo.pdb
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.AssemblyInfo.cs
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.dll
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\refint\EsePrimo.dll
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.pdb
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\EsePrimo.genruntimeconfig.cache
+C:\Users\USER\desktop\CorsoC\Eser_one\EsePrimo\obj\Debug\net10.0\ref\EsePrimo.dll

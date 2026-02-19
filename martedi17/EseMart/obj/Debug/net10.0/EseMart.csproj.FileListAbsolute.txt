@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\bin\Debug\net10.0\EseMart.exe
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\bin\Debug\net10.0\EseMart.deps.json
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\bin\Debug\net10.0\EseMart.runtimeconfig.json
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\bin\Debug\net10.0\EseMart.dll
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\bin\Debug\net10.0\EseMart.pdb
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.AssemblyInfo.cs
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.dll
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\refint\EseMart.dll
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.pdb
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\EseMart.genruntimeconfig.cache
+C:\Users\USER\desktop\CorsoC\martedi17\EseMart\obj\Debug\net10.0\ref\EseMart.dll

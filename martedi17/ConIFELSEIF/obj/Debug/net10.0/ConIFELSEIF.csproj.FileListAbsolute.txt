@@ -1,0 +1,14 @@
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\bin\Debug\net10.0\ConIFELSEIF.exe
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\bin\Debug\net10.0\ConIFELSEIF.deps.json
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\bin\Debug\net10.0\ConIFELSEIF.runtimeconfig.json
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\bin\Debug\net10.0\ConIFELSEIF.dll
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\bin\Debug\net10.0\ConIFELSEIF.pdb
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.AssemblyInfo.cs
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.dll
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\refint\ConIFELSEIF.dll
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.pdb
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ConIFELSEIF.genruntimeconfig.cache
+C:\Users\USER\desktop\CorsoC\ConIFELSEIF\obj\Debug\net10.0\ref\ConIFELSEIF.dll
