@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\bin\Debug\net10.0\EsercizioListe.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\bin\Debug\net10.0\EsercizioListe.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\bin\Debug\net10.0\EsercizioListe.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\bin\Debug\net10.0\EsercizioListe.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\bin\Debug\net10.0\EsercizioListe.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\refint\EsercizioListe.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\EsercizioListe.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_ListeEse\EsercizioListe\obj\Debug\net10.0\ref\EsercizioListe.dll

@@ -44,6 +44,7 @@ class Program
 
     static void EsercizioMatrici1()
     {
+        // Acquisizione dimensioni della matrice da tastiera
         Console.Write("Inserisci numero righe: "); int r = int.Parse(Console.ReadLine());
         Console.Write("Inserisci numero colonne: "); int c = int.Parse(Console.ReadLine());
         int[,] m = new int[r, c];
@@ -61,7 +62,7 @@ class Program
         }
 
         Console.WriteLine("\n--- RISULTATI ---");
-
+        // Calcolo delle somme per ogni riga: resetta sommaR a ogni cambio riga
         // Somma ogni singola riga
         for (int i = 0; i < r; i++)
         {
@@ -86,14 +87,14 @@ class Program
         Random rnd = new Random();
         int[,] m1 = new int[4, 4];
         int[,] m2 = new int[4, 4];
-        int vinceM1 = 0, vinceM2 = 0;
+        int vinceM1 = 0, vinceM2 = 0; // Contatori per determinare il vincitore finale
 
         // Generazione e stampa Matrice 1
         Console.WriteLine("\nMATRICE 1:");
         for (int i = 0; i < 4; i++) {
             int s1 = 0;
             for (int j = 0; j < 4; j++) {
-                m1[i, j] = rnd.Next(1, 51);
+                m1[i, j] = rnd.Next(1, 51); // Valore casuale tra 1 e 50
                 Console.Write(m1[i, j] + "\t");
                 s1 += m1[i, j];
             }
@@ -112,7 +113,7 @@ class Program
             }
             Console.WriteLine($"| Somma riga: {s2}");
         }
-
+        //confronta le somme delle righe
         // Confronto righe
         for (int i = 0; i < 4; i++)
          {
