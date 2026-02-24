@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\bin\Debug\net10.0\Ese_Matrici_Random.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\bin\Debug\net10.0\Ese_Matrici_Random.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\bin\Debug\net10.0\Ese_Matrici_Random.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\bin\Debug\net10.0\Ese_Matrici_Random.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\bin\Debug\net10.0\Ese_Matrici_Random.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\refint\Ese_Matrici_Random.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\Ese_Matrici_Random.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Martedi24_MatriciEse\Ese_Matrici_Random\obj\Debug\net10.0\ref\Ese_Matrici_Random.dll
