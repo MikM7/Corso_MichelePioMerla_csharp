@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\bin\Debug\net10.0\Eseclasse.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\bin\Debug\net10.0\Eseclasse.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\bin\Debug\net10.0\Eseclasse.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\bin\Debug\net10.0\Eseclasse.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\bin\Debug\net10.0\Eseclasse.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\refint\Eseclasse.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\Eseclasse.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\venerdi27\Eseclasse\obj\Debug\net10.0\ref\Eseclasse.dll
