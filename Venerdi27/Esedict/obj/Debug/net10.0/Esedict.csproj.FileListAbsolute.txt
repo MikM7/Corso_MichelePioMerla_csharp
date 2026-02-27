@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\bin\Debug\net10.0\Esedict.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\bin\Debug\net10.0\Esedict.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\bin\Debug\net10.0\Esedict.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\bin\Debug\net10.0\Esedict.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\bin\Debug\net10.0\Esedict.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\refint\Esedict.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\Esedict.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\Venerdi27\Esedict\obj\Debug\net10.0\ref\Esedict.dll
