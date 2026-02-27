@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eseclasse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d82b6f155085c55520bc26f5cd0cd202bb06bf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191e50d6afd61c37c7d36085b0fbab8c9a3bcc38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eseclasse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eseclasse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

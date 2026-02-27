@@ -1,27 +1,48 @@
 ﻿using System;
 
-namespace EserciziProgrammazione
+namespace GestioneDati
 {
-    
 
-    public class Studente
+    class Studente
     {
         public string Nome;
         public int Matricola;
         public double MediaVoti;
+
+        public Studente(string nome, int matricola, double mediaVoti)
+        {
+            Nome = nome;
+            Matricola = matricola;
+            MediaVoti = mediaVoti;
+        }
     }
 
-   public class Persona
+    class Persona
     {
         public string Nome;
         public string Cognome;
         public int AnnoNascita;
+
+        public Persona(string nome, string cognome, int annoNascita)
+        {
+            Nome = nome;
+            Cognome = cognome;
+            AnnoNascita = annoNascita;
+        }
     }
 
-    public class Operazioni
+    class Operazioni
     {
-        public int Somma(int a, int b) => a + b;
-        public int Moltiplica(int a, int b) => a * b;
+        
+        public int Somma(int a, int b)
+        {
+            return a + b;
+        }
+
+        public int Moltiplica(int a, int b)
+        {
+            return a * b;
+        }
 
         public void StampaRisultato(string operazione, int risultato)
         {
@@ -29,33 +50,44 @@ namespace EserciziProgrammazione
         }
     }
 
-    public class Program
+
+   public class Program
     {
-        public static void Main()
+        public static void Main(Strings[]args)
         {
-            // 1. ESERCIZIO STUDENTE
-            Console.WriteLine("--- Esercizio Studente ---");
-            Studente s1 = new Studente { Nome = "Michele Merla", Matricola = 0747, MediaVoti = 28.5 };
-            Console.WriteLine($"Studente: {s1.Nome}, Media: {s1.MediaVoti}\n");
+            // 1. GESTIONE STUDENTE
+            Console.WriteLine("\n=== DATI STUDENTE ===");
+           
+            Studente s1 = new Studente("Marco Dos Santos", 12345, 28.5);
+            Studente s2 = new Studente("Lucia Ocampos", 78900, 26.5);
 
-            // 2. ESERCIZIO PERSONA
-            Console.WriteLine("--- Esercizio Persona ---");
-            Persona p1 = new Persona { Nome = "Antonio", Cognome = "Natale", AnnoNascita = 1995 };
-            Console.WriteLine($"{p1.Nome} {p1.Cognome} è nato nel {p1.AnnoNascita}\n");
+            Console.WriteLine($"Studente: {s1.Nome} | Matricola: {s1.Matricola} | Media: {s1.MediaVoti}");
+            Console.WriteLine($"Studente: {s2.Nome} | Matricola: {s2.Matricola} | Media: {s2.MediaVoti}\n");
 
-            // 3. ESERCIZIO OPERAZIONI
-            Console.WriteLine("--- Esercizio Operazioni ---");
-            Operazioni op = new Operazioni();
+            // 2. GESTIONE PERSONA
+            Console.WriteLine("=== DATI PERSONA ===");
             
-            Console.Write("Inserisci il primo numero: ");
+            Persona p1 = new Persona("Sara", "Rossi", 1995);
+            
+            Console.WriteLine($"Nome Completo: {p1.Nome} {p1.Cognome} | Anno: {p1.AnnoNascita}\n");
+
+            // 3. ESE DUE NUM SOMMA E PRODOTTI
+            Console.WriteLine("=== OPERAZIONI MATEMATICHE ===");
+            Operazioni calcoli = new Operazioni();
+            
+            Console.Write("Inserisci il primo valore: ");
             int n1 = int.Parse(Console.ReadLine());
-            Console.Write("Inserisci il secondo numero: ");
+            
+            Console.Write("Inserisci il secondo valore: ");
             int n2 = int.Parse(Console.ReadLine());
 
-            op.StampaRisultato("Somma", op.Somma(n1, n2));
-            op.StampaRisultato("Moltiplica", op.Moltiplica(n1, n2));
+            int risSomma = calcoli.Somma(n1, n2);
+            int risMoltiplica = calcoli.Moltiplica(n1, n2);
 
-            Console.WriteLine("\nPremi un tasto per uscire...");
+            calcoli.StampaRisultato("Somma", risSomma);
+            calcoli.StampaRisultato("Moltiplicazione", risMoltiplica);
+
+            Console.WriteLine("\nPremi un tasto per terminare il programma...");
             Console.ReadKey();
         }
     }
