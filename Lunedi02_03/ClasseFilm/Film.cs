@@ -19,7 +19,7 @@ namespace VideotecaApp
 
         public override string ToString()
         {
-            // Aggiungiamo \n alla fine per dare aria tra un film e l'altro
+            
             return $"| {Titolo,-20} | {Regista,-18} | {Anno,-5} | {Genere,-12} |\n";
         }
     }
