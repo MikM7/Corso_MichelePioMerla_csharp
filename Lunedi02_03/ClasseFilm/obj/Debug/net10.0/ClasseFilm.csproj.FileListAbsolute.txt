@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\bin\Debug\net10.0\ClasseFilm.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\bin\Debug\net10.0\ClasseFilm.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\bin\Debug\net10.0\ClasseFilm.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\bin\Debug\net10.0\ClasseFilm.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\bin\Debug\net10.0\ClasseFilm.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\refint\ClasseFilm.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ClasseFilm.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\ClasseFilm\obj\Debug\net10.0\ref\ClasseFilm.dll
