@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\bin\Debug\net10.0\Volo.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\bin\Debug\net10.0\Volo.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\bin\Debug\net10.0\Volo.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\bin\Debug\net10.0\Volo.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\bin\Debug\net10.0\Volo.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\refint\Volo.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\Volo.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Volo\obj\Debug\net10.0\ref\Volo.dll

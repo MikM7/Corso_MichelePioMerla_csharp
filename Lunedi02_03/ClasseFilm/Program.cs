@@ -8,7 +8,6 @@ namespace VideotecaApp
         {
             Film[] raccolta = new Film[3];
 
-            // 1. Inserimento (Il tuo codice)
             for (int i = 0; i < raccolta.Length; i++)
             {
                 Console.WriteLine($"\nInserisci i dati del Film {i + 1}:");
@@ -21,7 +20,6 @@ namespace VideotecaApp
 
             // 2. Stampa Elenco
             Console.WriteLine("\n--- ELENCO FILM INSERITI ---");
-            // Una sola riga per non farli volare
             Console.WriteLine("------------------------------------------------------------------");
             Console.WriteLine($"| {"TITOLO",-20} | {"REGISTA",-18} | {"ANNO",-5} | {"GENERE",-12} |");
             Console.WriteLine("------------------------------------------------------------------");

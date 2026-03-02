@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\bin\Debug\net10.0\Veicolo_ese_ereditarieta.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\bin\Debug\net10.0\Veicolo_ese_ereditarieta.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\bin\Debug\net10.0\Veicolo_ese_ereditarieta.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\bin\Debug\net10.0\Veicolo_ese_ereditarieta.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\bin\Debug\net10.0\Veicolo_ese_ereditarieta.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\refint\Veicolo_ese_ereditarieta.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\Veicolo_ese_ereditarieta.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\lunedi02_03\Veicolo_ese_ereditarieta\obj\Debug\net10.0\ref\Veicolo_ese_ereditarieta.dll
