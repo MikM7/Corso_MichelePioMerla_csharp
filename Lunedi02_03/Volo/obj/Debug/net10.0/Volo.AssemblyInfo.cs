@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+331e958374b94f0a105830567785529332d6d959")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9f9b1d13565f8482d93fdf5c043fed1965ff34a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
