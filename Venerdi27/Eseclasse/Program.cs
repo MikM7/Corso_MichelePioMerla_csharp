@@ -71,7 +71,7 @@ namespace GestioneDati
             
             Console.WriteLine($"Nome Completo: {p1.Nome} {p1.Cognome} | Anno: {p1.AnnoNascita}\n");
 
-            // 3. ESE DUE NUM SOMMA E PRODOTTI
+            // 3. ESE DUE NUM SOMMA E PRODOTTO
             Console.WriteLine("=== OPERAZIONI MATEMATICHE ===");
             Operazioni calcoli = new Operazioni();
             
