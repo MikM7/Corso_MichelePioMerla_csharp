@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ese3_pagina258_bar/1.0.0": {
+        "runtime": {
+          "ese3_pagina258_bar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ese3_pagina258_bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
