@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\bin\Debug\net10.0\EsePoli.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\bin\Debug\net10.0\EsePoli.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\bin\Debug\net10.0\EsePoli.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\bin\Debug\net10.0\EsePoli.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\bin\Debug\net10.0\EsePoli.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\refint\EsePoli.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\EsePoli.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EsePoli\obj\Debug\net10.0\ref\EsePoli.dll

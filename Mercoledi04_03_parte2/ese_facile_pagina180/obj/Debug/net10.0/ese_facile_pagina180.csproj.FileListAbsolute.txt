@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\bin\Debug\net10.0\ese_facile_pagina180.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\bin\Debug\net10.0\ese_facile_pagina180.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\bin\Debug\net10.0\ese_facile_pagina180.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\bin\Debug\net10.0\ese_facile_pagina180.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\bin\Debug\net10.0\ese_facile_pagina180.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\refint\ese_facile_pagina180.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ese_facile_pagina180.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\ese_facile_pagina180\obj\Debug\net10.0\ref\ese_facile_pagina180.dll

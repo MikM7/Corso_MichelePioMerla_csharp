@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\bin\Debug\net10.0\EserciziAstrazione.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\bin\Debug\net10.0\EserciziAstrazione.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\bin\Debug\net10.0\EserciziAstrazione.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\bin\Debug\net10.0\EserciziAstrazione.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\bin\Debug\net10.0\EserciziAstrazione.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\refint\EserciziAstrazione.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\EserciziAstrazione.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\EserciziAstrazione\obj\Debug\net10.0\ref\EserciziAstrazione.dll

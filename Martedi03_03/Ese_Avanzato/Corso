@@ -1,0 +1,63 @@
+using System;
+using System.Collections.Generic;
+
+namespace ScuolaArtistica
+{
+    public class Corso
+    {
+        public string NomeCorso { get; set; }
+        public int DurataOre { get; set; }
+        public string Docente { get; set; }
+        public List<string> Studenti { get; set; } = new List<string>();
+
+        public Corso(string nome, int durata, string docente)
+        {
+            NomeCorso = nome;
+            DurataOre = durata;
+            Docente = docente;
+        }
+
+        public void AggiungiStudente(string nomeStudente)
+        {
+            Studenti.Add(nomeStudente);
+        }
+
+        public override string ToString()
+        {
+            return $"[CORSO] {NomeCorso} | Docente: {Docente} | Ore: {DurataOre} | Studenti: {Studenti.Count}";
+        }
+
+        public virtual void MetodoSpeciale()
+        {
+            Console.WriteLine("Attività generica del corso.");
+        }
+    }
+
+    public class CorsoMusica : Corso
+    {
+        public string Strumento { get; set; }
+        public CorsoMusica(string n, int d, string doc, string s) : base(n, d, doc) => Strumento = s;
+
+        public override string ToString() => base.ToString() + $" | Strumento: {Strumento}";
+        public override void MetodoSpeciale() => Console.WriteLine($"Si tiene una prova pratica dello strumento: {Strumento}");
+    }
+
+    public class CorsoPittura : Corso
+    {
+        public string Tecnica { get; set; }
+        public CorsoPittura(string n, int d, string doc, string t) : base(n, d, doc) => Tecnica = t;
+
+        public override string ToString() => base.ToString() + $" | Tecnica: {Tecnica}";
+        public override void MetodoSpeciale() => Console.WriteLine($"Si lavora su una tela con tecnica: {Tecnica}");
+    }
+
+    public class CorsoDanza : Corso
+    {
+        public string Stile { get; set; }
+        public CorsoDanza(string n, int d, string doc, string s) : base(n, d, doc) => Stile = s;
+
+        public override string ToString() => base.ToString() + $" | Stile: {Stile}";
+        public override void MetodoSpeciale() => Console.WriteLine($"Esecuzione coreografia nello stile: {Stile}");
+    }
+}
+

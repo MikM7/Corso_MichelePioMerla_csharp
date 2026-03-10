@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\bin\Debug\net10.0\Ese_Avanzato.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\bin\Debug\net10.0\Ese_Avanzato.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\bin\Debug\net10.0\Ese_Avanzato.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\bin\Debug\net10.0\Ese_Avanzato.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\bin\Debug\net10.0\Ese_Avanzato.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\refint\Ese_Avanzato.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\Ese_Avanzato.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\martedi03_03\Ese_Avanzato\obj\Debug\net10.0\ref\Ese_Avanzato.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ese_astra_medio/1.0.0": {
+        "runtime": {
+          "ese_astra_medio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ese_astra_medio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

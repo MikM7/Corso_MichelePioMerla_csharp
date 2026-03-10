@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ese_facile_pagina180/1.0.0": {
+        "runtime": {
+          "ese_facile_pagina180.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ese_facile_pagina180/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

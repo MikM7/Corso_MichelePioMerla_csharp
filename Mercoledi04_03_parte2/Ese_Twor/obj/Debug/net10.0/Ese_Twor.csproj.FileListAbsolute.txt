@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\bin\Debug\net10.0\Ese_Twor.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\bin\Debug\net10.0\Ese_Twor.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\bin\Debug\net10.0\Ese_Twor.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\bin\Debug\net10.0\Ese_Twor.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\bin\Debug\net10.0\Ese_Twor.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\refint\Ese_Twor.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\Ese_Twor.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\Ese_Twor\obj\Debug\net10.0\ref\Ese_Twor.dll

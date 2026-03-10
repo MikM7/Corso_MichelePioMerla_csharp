@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\bin\Debug\net10.0\ese_astra_medio.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\bin\Debug\net10.0\ese_astra_medio.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\bin\Debug\net10.0\ese_astra_medio.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\bin\Debug\net10.0\ese_astra_medio.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\bin\Debug\net10.0\ese_astra_medio.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\refint\ese_astra_medio.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ese_astra_medio.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\giovedi05_03\ese_astra_medio\obj\Debug\net10.0\ref\ese_astra_medio.dll

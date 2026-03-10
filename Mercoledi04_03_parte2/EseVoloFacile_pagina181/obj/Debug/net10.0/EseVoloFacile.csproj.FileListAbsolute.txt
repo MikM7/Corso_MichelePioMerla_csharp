@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\bin\Debug\net10.0\EseVoloFacile.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\bin\Debug\net10.0\EseVoloFacile.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\bin\Debug\net10.0\EseVoloFacile.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\bin\Debug\net10.0\EseVoloFacile.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\bin\Debug\net10.0\EseVoloFacile.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\refint\EseVoloFacile.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\EseVoloFacile.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi04_03_parte2\EseVoloFacile\obj\Debug\net10.0\ref\EseVoloFacile.dll
