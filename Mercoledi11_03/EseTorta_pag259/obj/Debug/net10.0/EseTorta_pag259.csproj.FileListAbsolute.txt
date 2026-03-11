@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\bin\Debug\net10.0\EseTorta_pag259.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\bin\Debug\net10.0\EseTorta_pag259.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\bin\Debug\net10.0\EseTorta_pag259.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\bin\Debug\net10.0\EseTorta_pag259.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\bin\Debug\net10.0\EseTorta_pag259.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\refint\EseTorta_pag259.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\EseTorta_pag259.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseTorta_pag259\obj\Debug\net10.0\ref\EseTorta_pag259.dll

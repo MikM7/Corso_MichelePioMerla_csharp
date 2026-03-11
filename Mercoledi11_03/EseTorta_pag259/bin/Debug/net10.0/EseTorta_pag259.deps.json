@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EseTorta_pag259/1.0.0": {
+        "runtime": {
+          "EseTorta_pag259.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EseTorta_pag259/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
