@@ -1,145 +1,216 @@
 ﻿using System;
 
-namespace RistorantePatternCompleto
+namespace RistorantePatterns
 {
-    // 1. SINGLETON PATTERN (Gestione Cassa Unica)
-    public class CassaRistorante
+
+    // INTERFACCIA PIATTO
+    public interface IPiatto
     {
-        private static CassaRistorante _istanza;
-        private double _totaleIncassato = 0;
+        string Descrizione();
+        string Prepara();
+    }
 
-        private CassaRistorante() { } // Costruttore privato
-
-        public static CassaRistorante GetIstanza()
+    // PIATTI BASE
+    public class Pizza : IPiatto
+    {
+        public string Descrizione()
         {
-            if (_istanza == null)
+            return "Pizza base";
+        }
+
+        public string Prepara()
+        {
+            return "Preparazione base pizza";
+        }
+    }
+
+    public class Hamburger : IPiatto
+    {
+        public string Descrizione()
+        {
+            return "Hamburger base";
+        }
+
+        public string Prepara()
+        {
+            return "Preparazione base hamburger";
+        }
+    }
+
+    public class Insalata : IPiatto
+    {
+        public string Descrizione()
+        {
+            return "Insalata base";
+        }
+
+        public string Prepara()
+        {
+            return "Preparazione base insalata";
+        }
+    }
+    // FACTORY PATTERN
+    public static class PiattoFactory
+    {
+        public static IPiatto Crea(string tipo)
+        {
+            switch (tipo.ToLower())
             {
-                _istanza = new CassaRistorante();
+                case "pizza":
+                    return new Pizza();
+
+                case "hamburger":
+                    return new Hamburger();
+
+                case "insalata":
+                    return new Insalata();
+
+                default:
+                    throw new Exception("Tipo non valido");
             }
-            return _istanza;
-        }
-
-        public void AggiungiAlTotale(double importo)
-        {
-            _totaleIncassato = _totaleIncassato + importo;
-        }
-
-        public double GetTotale()
-        {
-            return _totaleIncassato;
         }
     }
-    // 2. OBSERVER PATTERN (Notifica al Cliente)
-    public interface IOsservatore 
-    { 
-        void Notifica(string messaggio); 
-    }
-
-    public class Cliente : IOsservatore
-    {
-        private string _nome;
-        public Cliente(string nome)
-        {
-            _nome = nome;
-        }
-        public void Notifica(string msg)
-        {
-            Console.WriteLine("[NOTIFICA PER " + _nome.ToUpper() + "]: " + msg);
-        }
-    }
-    // 3. STRATEGY PATTERN (Cottura)
-    public interface IPreparazioneStrategia 
-    { 
-        string Prepara(string descrizione); 
-    }
-
-    public class CotturaAlForno : IPreparazioneStrategia
-    {
-        public string Prepara(string descrizione)
-        {
-            return "[FORNO] " + descrizione + " cotta al calore del legno.";
-        }
-    }
-
-    public class CotturaFritto : IPreparazioneStrategia
-    {
-        public string Prepara(string descrizione)
-        {
-            return "[FRITTO] " + descrizione + " dorata in olio bollente.";
-        }
-    }
-    // 4. COMPONENTE BASE E DECORATOR (Piatti e Extra)
-    public interface IPiatto 
-    { 
-        string Descrizione(); 
-        double Prezzo(); 
-    }
-
-    public class Pizza : IPiatto 
-    { 
-        public string Descrizione() { return "Pizza Margherita"; }
-        public double Prezzo() { return 7.00; }
-    }
+    // DECORATOR PATTERN
 
     public abstract class IngredienteExtra : IPiatto
     {
-        protected IPiatto piattoBase;
-        public IngredienteExtra(IPiatto piatto) { piattoBase = piatto; }
-        public abstract string Descrizione();
-        public abstract double Prezzo();
+        protected IPiatto piatto;
+
+        public IngredienteExtra(IPiatto p)
+        {
+            piatto = p;
+        }
+
+        public virtual string Descrizione()
+        {
+            return piatto.Descrizione();
+        }
+
+        public virtual string Prepara()
+        {
+            return piatto.Prepara();
+        }
     }
 
     public class ConFormaggio : IngredienteExtra
     {
         public ConFormaggio(IPiatto p) : base(p) { }
-        public override string Descrizione() 
-        { 
-            return piattoBase.Descrizione() + " + Formaggio fuso"; 
-        }
-        public override double Prezzo() 
-        { 
-            return piattoBase.Prezzo() + 1.50; 
+
+        public override string Descrizione()
+        {
+            return piatto.Descrizione() + ", formaggio";
         }
     }
 
-    // 5. FACTORY PATTERN (Creazione Base)
-    public static class PiattoFactory
+    public class ConBacon : IngredienteExtra
     {
-        public static IPiatto Crea(string tipo)
+        public ConBacon(IPiatto p) : base(p) { }
+
+        public override string Descrizione()
         {
-            if (tipo.ToLower() == "pizza")
-            {
-                return new Pizza();
-            }
-            else
-            {
-                throw new Exception("Piatto non disponibile!");
-            }
+            return piatto.Descrizione() + ", bacon";
         }
     }
+
+    public class ConSalsa : IngredienteExtra
+    {
+        public ConSalsa(IPiatto p) : base(p) { }
+
+        public override string Descrizione()
+        {
+            return piatto.Descrizione() + ", salsa";
+        }
+    }
+
+    // STRATEGY PATTERN
+    public interface IPreparazioneStrategia
+    {
+        string Prepara(string descrizione);
+    }
+
+    public class Fritto : IPreparazioneStrategia
+    {
+        public string Prepara(string descrizione)
+        {
+            return descrizione + " preparato fritto";
+        }
+    }
+
+    public class AlForno : IPreparazioneStrategia
+    {
+        public string Prepara(string descrizione)
+        {
+            return descrizione + " preparato al forno";
+        }
+    }
+
+    public class AllaGriglia : IPreparazioneStrategia
+    {
+        public string Prepara(string descrizione)
+        {
+            return descrizione + " preparato alla griglia";
+        }
+    }
+
+    // SINGLETON CHEF
     public class Chef
     {
-        private IPreparazioneStrategia _strategia;
-        private List<IOsservatore> _clienti = new List<IOsservatore>();
+        private static Chef instance;
 
-        public void AggiungiCliente(IOsservatore c) { _clienti.Add(c); }
-        public void ImpostaCottura(IPreparazioneStrategia s) { _strategia = s; }
+        private IPreparazioneStrategia strategia;
 
-        public void Cucina(IPiatto piatto)
+        private Chef() { }
+
+        public static Chef Instance
         {
-            if (_strategia != null)
+            get
             {
-                string risultato = _strategia.Prepara(piatto.Descrizione());
-                
-                // Registra l'incasso nel Singleton
-                CassaRistorante.GetIstanza().AggiungiAlTotale(piatto.Prezzo());
+                if (instance == null)
+                    instance = new Chef();
 
-                // Notifica gli osservatori
-                foreach (IOsservatore c in _clienti)
-                {
-                    c.Notifica("Il piatto '" + risultato + "' è pronto! Totale: " + piatto.Prezzo() + "€");
-                }
+                return instance;
             }
+        }
+
+        public void SetStrategia(IPreparazioneStrategia s)
+        {
+            strategia = s;
+        }
+
+        public string PreparaPiatto(IPiatto p)
+        {
+            return strategia.Prepara(p.Descrizione());
+        }
+    }
+
+    // BUILDER PATTERN
+    public class PiattoBuilder
+    {
+        private IPiatto piatto;
+
+        public PiattoBuilder(string tipo)
+        {
+            piatto = PiattoFactory.Crea(tipo);
+        }
+
+        public void AggiungiFormaggio()
+        {
+            piatto = new ConFormaggio(piatto);
+        }
+
+        public void AggiungiBacon()
+        {
+            piatto = new ConBacon(piatto);
+        }
+
+        public void AggiungiSalsa()
+        {
+            piatto = new ConSalsa(piatto);
+        }
+
+        public IPiatto GetPiatto()
+        {
+            return piatto;
         }
     }
 
@@ -147,27 +218,53 @@ namespace RistorantePatternCompleto
     {
         static void Main(string[] args)
         {
-            Chef loChef = new Chef();
-            loChef.AggiungiCliente(new Cliente("Studente"));
 
-            Console.WriteLine("=== RISTORANTE 5 DESIGN PATTERNS (SINTASSI CLASSICA) ===");
+            Console.WriteLine("Scegli piatto (pizza, hamburger, insalata):");
+            string tipo = Console.ReadLine();
 
-            // Factory
-            IPiatto mioOrdine = PiattoFactory.Crea("pizza");
+            PiattoBuilder builder = new PiattoBuilder(tipo);
 
-            // Decorator
-            mioOrdine = new ConFormaggio(mioOrdine);
+            Console.WriteLine("Aggiungere formaggio? (s/n)");
+            if (Console.ReadLine() == "s")
+                builder.AggiungiFormaggio();
 
-            // Strategy
-            loChef.ImpostaCottura(new CotturaAlForno());
+            Console.WriteLine("Aggiungere bacon? (s/n)");
+            if (Console.ReadLine() == "s")
+                builder.AggiungiBacon();
 
-            // Esecuzione
-            loChef.Cucina(mioOrdine);
+            Console.WriteLine("Aggiungere salsa? (s/n)");
+            if (Console.ReadLine() == "s")
+                builder.AggiungiSalsa();
 
-            // Singleton
-            Console.WriteLine("\n[CASSA]: Totale incassato oggi: " + CassaRistorante.GetIstanza().GetTotale() + "€");
-            
-            Console.ReadKey();
+            IPiatto piatto = builder.GetPiatto();
+
+            Console.WriteLine("Scegli preparazione (forno, fritto, griglia):");
+            string prep = Console.ReadLine();
+
+            IPreparazioneStrategia strategia;
+
+            switch (prep)
+            {
+                case "forno":
+                    strategia = new AlForno();
+                    break;
+
+                case "fritto":
+                    strategia = new Fritto();
+                    break;
+
+                default:
+                    strategia = new AllaGriglia();
+                    break;
+            }
+
+            Chef chef = Chef.Instance;
+            chef.SetStrategia(strategia);
+
+            Console.WriteLine("\n--- RISULTATO ---");
+            Console.WriteLine("Descrizione: " + piatto.Descrizione());
+            Console.WriteLine("");
+            Console.WriteLine("Preparazione: " + chef.PreparaPiatto(piatto));
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\bin\Debug\net10.0\Ristorante5pattern.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\bin\Debug\net10.0\Ristorante5pattern.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\bin\Debug\net10.0\Ristorante5pattern.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\bin\Debug\net10.0\Ristorante5pattern.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\bin\Debug\net10.0\Ristorante5pattern.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\refint\Ristorante5pattern.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\Ristorante5pattern.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ristorante5pattern\obj\Debug\net10.0\ref\Ristorante5pattern.dll

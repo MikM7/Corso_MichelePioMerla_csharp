@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ristorante5pattern/1.0.0": {
+        "runtime": {
+          "Ristorante5pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ristorante5pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
