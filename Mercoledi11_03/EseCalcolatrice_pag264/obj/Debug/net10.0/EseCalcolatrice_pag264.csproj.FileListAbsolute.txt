@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\bin\Debug\net10.0\EseCalcolatrice_pag264.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\bin\Debug\net10.0\EseCalcolatrice_pag264.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\bin\Debug\net10.0\EseCalcolatrice_pag264.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\bin\Debug\net10.0\EseCalcolatrice_pag264.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\bin\Debug\net10.0\EseCalcolatrice_pag264.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\refint\EseCalcolatrice_pag264.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\EseCalcolatrice_pag264.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\EseCalcolatrice_pag264\obj\Debug\net10.0\ref\EseCalcolatrice_pag264.dll
