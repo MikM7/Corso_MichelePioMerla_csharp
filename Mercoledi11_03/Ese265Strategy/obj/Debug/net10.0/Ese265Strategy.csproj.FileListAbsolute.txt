@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\bin\Debug\net10.0\Ese265Strategy.exe
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\bin\Debug\net10.0\Ese265Strategy.deps.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\bin\Debug\net10.0\Ese265Strategy.runtimeconfig.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\bin\Debug\net10.0\Ese265Strategy.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\bin\Debug\net10.0\Ese265Strategy.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.AssemblyInfo.cs
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.sourcelink.json
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\refint\Ese265Strategy.dll
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.pdb
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\Ese265Strategy.genruntimeconfig.cache
+C:\Users\USER\Desktop\Corso_MichelePioMerla_csharp\mercoledi11_03\Ese265Strategy\obj\Debug\net10.0\ref\Ese265Strategy.dll

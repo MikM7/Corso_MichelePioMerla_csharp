@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ese265Strategy/1.0.0": {
+        "runtime": {
+          "Ese265Strategy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ese265Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
